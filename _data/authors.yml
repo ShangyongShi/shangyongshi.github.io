@@ -30,7 +30,7 @@ sshi:                                                      # Fallback if nothing
   name:         "Shangyong Shi"                               # used to display author name
   cover:        /assets/brycecanyon.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/sshi.jpg                              # OPTIONAL: author picture
-  bio:          The mountain is calling, and I must go.                               # OPTIONAL: text below author name in posts
+  bio:          Stay curious                               # OPTIONAL: text below author name in posts
   location:     United States                                       # OPTIONAL: used to display location of the author
   website:      shangyongshi.github.io      	              # OPTIONAL: link to the author of a post
   email:  	sshi2@fsu.edu                                                    # OPTIONAL: used in the about page
