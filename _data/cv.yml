@@ -1,0 +1,79 @@
+sshi:
+    profile: "I am interested in a wide range of fields: snow hydrology, mountain hydrology, satellite remote sensing, climate change and climate variabilities."
+    skills:
+        - "Python (numpy, pandas, xarray, HDF, sklearn…), Matlab, Fortran, C"
+        - "Linux, Github code management (jupyter book, Jekyll, markdown)"
+    education:
+        - time:             "2020 Fall - continuing"
+          location:         "Florida State University, EOAS"
+          description:      "Ph.D. in Meteorology"
+        - time:             "2018 Fall - 2020 Fall"
+          location:         "Florida State University, EOAS"
+          description:      "Master of Science, Meteorology"
+        - time:             "2014 Fall - 2018 Spring"
+          location:         "Florida State University, EOAS"
+          description:      "Bachelor of Science, Atmospheric Sciences"
+    employment:
+        - time:             "2018 Fall - continuing"
+          location:         "Tallahassee"
+          company:          "Florida State University"
+          position:         "Research Assistant"
+          responsibilities:
+            - "Developed the precipitation phase classification scheme for satellite retrievals."
+            - "Improve the satellite snowfall validation method."
+            - "Investigated global climatologies and trends in the snow to precipitation ratio."
+            - "Analyzed the effect of extreme precipitation on hydroclimate variations."
+        - time:             "2022 Fall - 2023 Spring"
+          location:         "Tallahassee"
+          company:          "Florida State University"
+          position:         "Teaching Assistant"
+          responsibilities:
+            - "Helping with class design"
+            - "Guiding recitation classes"
+            - "Conducting water tank experiments"
+            - "Grading, proctoring"
+    publications:
+        - title: Investigation on the snow to precipitation ratio in the US based on satellite data. (In preparation)
+          authors:
+             - Shi, Shangyong
+             - Liu, Guosheng
+          date: 2023
+
+        - title: Classifying precipitation phase with atmospheric soundings based on upper-level energy. (To be submitted to JGR)
+          authors:
+             - Shi, Shangyong
+             - Liu, Guosheng
+          date: 2023
+
+        - title: A novel approach to validate satellite snowfall retrievals by ground-based point measurements.
+          authors:
+             - Jeoung, Hwayoung
+             - Shi, Shangyong
+             - Liu, Guosheng
+          date: 2022
+          venue: Remote Sensing
+          volume: 14(3)
+          pages: 434
+          paper_url: https://www.mdpi.com/2072-4292/14/3/434
+          doi: https://doi.org/10.3390/rs14030434
+
+        - title: The latitudinal dependence in the trend of snow event to precipitation event ratio.
+          authors:
+             - Shi, Shangyong
+             - Liu, Guosheng
+          date: 2021
+          venue: Scientific Reports
+          volume: 11(1)
+          pages: 18112
+          paper_url: 
+          doi: https://doi.org/10.1038/s41598-021-97451-9
+
+        - title: The role of extreme rain events in Peninsular Florida’s seasonal hydroclimate variations.
+          authors:
+             - Shi, Shangyong
+             - Misra, Vasubandhu
+          date: 2020
+          venue: Journal of Hydrology
+          volume: 589
+          pages: 125182
+          doi: https://doi.org/10.1016/j.jhydrol.2020.125182

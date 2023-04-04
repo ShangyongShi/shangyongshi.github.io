@@ -1,0 +1,53 @@
+default:                                                      # Fallback if nothing is specified
+  initial:      sshi                                          # used for author lookup in posts and for first two characters in the about page back button
+  name:         "Shangyong Shi"                               # used to display author name
+  cover:        /assets/brycecanyon.jpg        # OPTIONAL: defines location of cover image in about page
+  picture:      /assets/sshi.jpg                              # OPTIONAL: author picture
+  bio:          This is my bio!                               # OPTIONAL: text below author name in posts
+  location:     United States                                       # OPTIONAL: used to display location of the author
+  website:      shangyongshi.github.io      	              # OPTIONAL: link to the author of a post
+  email:  	sshi2@fsu.edu                                                    # OPTIONAL: used in the about page
+  twitter:                                                    # OPTIONAL: used in the about page
+  mastodon:                                                   # OPTIONAL: used in the about page
+  linkedin:                                                   # OPTIONAL: used in the about page
+  xing:                                                       # OPTIONAL: used in the about page
+  github:                                                     # OPTIONAL: used in the about page
+  stackoverflow:                                              # OPTIONAL: used in the about page
+  facebook:                                                   # OPTIONAL: used in the about page
+  gplus:                                                      # OPTIONAL: used in the about page
+  soundcloud:                                                 # OPTIONAL: used in the about page
+  youtube:                                                    # OPTIONAL: used in the about page
+  pinterest:                                                  # OPTIONAL: used in the about page
+  dribble:                                                    # OPTIONAL: used in the about page
+  behance:                                                    # OPTIONAL: used in the about page
+  spotify:                                                    # OPTIONAL: used in the about page
+  twitch:                                                     # OPTIONAL: used in the about page
+  s500px:                                                     # OPTIONAL: used in the about page
+  reddit:                                                     # OPTIONAL: used in the about page
+
+sshi:                                                      # Fallback if nothing is specified
+  initial:      sshi                                          # used for author lookup in posts and for first two characters in the about page back button
+  name:         "Shangyong Shi"                               # used to display author name
+  cover:        /assets/brycecanyon.jpg        # OPTIONAL: defines location of cover image in about page
+  picture:      /assets/sshi.jpg                              # OPTIONAL: author picture
+  bio:          The mountain is calling, and I must go.                               # OPTIONAL: text below author name in posts
+  location:     United States                                       # OPTIONAL: used to display location of the author
+  website:      shangyongshi.github.io      	              # OPTIONAL: link to the author of a post
+  email:  	sshi2@fsu.edu                                                    # OPTIONAL: used in the about page
+  twitter:                                                    # OPTIONAL: used in the about page
+  mastodon:                                                   # OPTIONAL: used in the about page
+  linkedin:                                                   # OPTIONAL: used in the about page
+  xing:                                                       # OPTIONAL: used in the about page
+  github:                                                     # OPTIONAL: used in the about page
+  stackoverflow:                                              # OPTIONAL: used in the about page
+  facebook:                                                   # OPTIONAL: used in the about page
+  gplus:                                                      # OPTIONAL: used in the about page
+  soundcloud:                                                 # OPTIONAL: used in the about page
+  youtube:                                                    # OPTIONAL: used in the about page
+  pinterest:                                                  # OPTIONAL: used in the about page
+  dribble:                                                    # OPTIONAL: used in the about page
+  behance:                                                    # OPTIONAL: used in the about page
+  spotify:                                                    # OPTIONAL: used in the about page
+  twitch:                                                     # OPTIONAL: used in the about page
+  s500px:                                                     # OPTIONAL: used in the about page
+  reddit:                                                     # OPTIONAL: used in the about page
