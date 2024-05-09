@@ -1,42 +1,90 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+title: Shangyong Shi
+# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+# description: Two roads diverged in woods, I took the one less traveled by.
+#Comment out url when working locally to resolve base urls correctly
 
-# Site settings
-title:            Shangyong Shi
-subtitle:         The mountain is calling, and I must go.
-description:      Shangyong Shi personal blog
-keywords:         
-language:         "en" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
+# url: https://caihanlin.com
 
-baseurl:          "" # the subpath of your site, e.g. /blog
-url:              "" # the base hostname & protocol for your site. Have a look at robots.txt as well!
-permalink:        /:categories/:title
-cover:            /assets/teton.jpg
-disqus_shortname: "sshi"
+# Owner/author information
+owner:
+  name: Shangyong Shi
+  avatar: shangyong.jpg
+  bio: Two roads diverged in woods, I took the one less traveled by.
+  email: sshi2@fsu.edu
+  cv: https://shangyongshi.github.io/file/ShangyongShi_cv_202403.pdf
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  # twitter: 
+  github: ShangyongShi
+  linkedin: ShangyongShi
+  scholar: https://scholar.google.com/citations?user=XQY-iJYAAAAJ&hl=en
+  # bilibili: 594030035
+  # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  # zhihu: https://www.zhihu.com/people/chlire
+  # facebook: caihanlin2002
+  # instagram: lancecai2002
+  # lastfm:
+  # tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  # google_plus:
 
-# Build settings
-sass:
-    style: compressed
-markdown: kramdown
+# Analytics and webmaster tools stuff goes here
+# https://search.google.com/search-console/ownership
+# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# bing_verify: ""
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About Me
+    url: /
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  #- title: CV
+  #  url: /CV/
+  - title: Presentations
+    url: /presentations/
+  # - title: Notes
+    # url: /notes/
+  #- title: Blogs
+    # url: /blogs/
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: US/Eastern
+future: true
+highlighter: rouge
+# markdown: kramdown
+# markdown: redcarpet
+# pygments: true
+
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+
 kramdown:
-  syntax_highlighter_opts:
-    disable: true
-include: ['_pages']
-exclude: [vendor, "developer-tools"]
-plugins:
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-redirect-from
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  ignore:
-    envs: [local]
-  blanklines: true
-  startings: [head, body]
+  # coderay:
+  #   coderay_line_numbers:
+  #   coderay_line_numbers_start: 1
+  #   coderay_tab_width: 4
+  #   coderay_bold_every: 10
+  #   coderay_css: class
+
+
+# disqus settings:
+disqus:
+  shortname: sherryshi
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+
+# Latest update in 2023/11/22 by Hanlin Cai.
