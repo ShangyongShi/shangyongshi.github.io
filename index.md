@@ -6,9 +6,9 @@ layout: page
 
 <img src="/images/ssy.jpg" class="floatpic">
 
-I am **Shangyong Shi (Sherry, 施尚永)**, a PhD student working with Dr. Guosheng Liu at Florida State University. I am the Pim Fellow in the Department of Earth and Planetary Sciences for year 2024 at Johns Hopkins University, working with Dr. Benjamin Zaitchik.
+I am **Shangyong Shi (Sherry, 施尚永)**. I am the Pim Fellow in the Department of Earth and Planetary Sciences for year 2024 at Johns Hopkins University, working with Dr. Benjamin Zaitchik (zaitchik@jhu.edu).
 
-I am interested in **satellite remote sensing, hydrometeorolog, snow hydrology, and climate change.**
+I am interested in **precipitation phase, satellite remote sensing, hydrometeorology, surface hydrology, and climate change.**
 
 <br>
 
@@ -16,7 +16,7 @@ I am interested in **satellite remote sensing, hydrometeorolog, snow hydrology, 
 
 ## Academic Background
 
-- **PhD.,** Florida State University. Jan. 2021 - Aug. 2024
+- **PhD.,** Florida State University. Jan. 2021 - Aug. 2024. Advisor: Guosheng Liu (gliu@fsu.edu)
 - **MSc.**, Florida State University, Sep. 2018 - Dec. 2020
 - **BSc.,** Nanjing University, China, Sep. 2014 - Jun. 2018
 - (Exchange Student) National Taiwan University, Sep. 2016 - Jan. 2017
