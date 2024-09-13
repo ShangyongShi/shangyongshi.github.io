@@ -6,7 +6,7 @@ layout: page
 
 <img src="/images/ssy.jpg" class="floatpic">
 
-I am **Shangyong Shi (Sherry, 施尚永)**. I am the Pim Fellow in the Department of Earth and Planetary Sciences for year 2024 at Johns Hopkins University, working with Dr. Benjamin Zaitchik (zaitchik@jhu.edu).
+I am **Shangyong Shi (施尚永)**. I am the Pim Fellow in the Department of Earth and Planetary Sciences for year 2024 at Johns Hopkins University, working with Dr. Benjamin Zaitchik (zaitchik@jhu.edu).
 
 I am interested in **precipitation phase, satellite remote sensing, hydrometeorology, surface hydrology, and climate change.**
 
