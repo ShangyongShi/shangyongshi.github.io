@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/ssy1.jpg" class="floatpic">
+<img src="/images/ssy1.JPG" class="floatpic">
 
 I am **Shangyong Shi (施尚永)**. I am the Pim Fellow in the Department of Earth and Planetary Sciences for year 2024 at Johns Hopkins University, working with Dr. Benjamin Zaitchik (zaitchik@jhu.edu).
 
