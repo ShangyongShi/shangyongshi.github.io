@@ -4,11 +4,15 @@ layout: page
 
 # About Me
 
-<img src="/images/ssy.jpg" class="floatpic">
+<img src="/images/ssy1.jpg" class="floatpic">
 
 I am **Shangyong Shi (施尚永)**. I am the Pim Fellow in the Department of Earth and Planetary Sciences for year 2024 at Johns Hopkins University, working with Dr. Benjamin Zaitchik (zaitchik@jhu.edu).
 
 I am interested in **precipitation phase, satellite remote sensing, hydrometeorology, surface hydrology, and climate change.**
+
+I used in-situ observations to study the climatology and trends in precipitation phase partitioning and develop an improved phase partitioning method applicable for satellite retrievals and hydrological modeling. I also employed satellite data to analyze the temperature sensitivity of precipitation phases, highlighting the variability in vulnerability to climate change. My collaborations include developing improved machine learning algorithms and validation methods for satellite snowfall retrieval. In the long term, I hope to bridge the atmospheric science and hydrology communities. My current project is to investigate the impact of precipitation phase on streamflow in the context of climate change.
+
+<img src="/images/ssy.jpg" class="floatpic">
 
 <br>
 
