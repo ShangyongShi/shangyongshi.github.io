@@ -10,7 +10,9 @@ I am **Shangyong Shi (施尚永)**. I am the Pim Fellow in the Department of Ear
 
 I am interested in **precipitation phase, satellite remote sensing, hydrometeorology, surface hydrology, and climate change.**
 
-I used in-situ observations to study the climatology and trends in precipitation phase partitioning and develop an improved phase partitioning method applicable for satellite retrievals and hydrological modeling. I also employed satellite data to analyze the temperature sensitivity of precipitation phases, highlighting the variability in vulnerability to climate change. My collaborations include developing improved machine learning algorithms and validation methods for satellite snowfall retrieval. In the long term, I hope to bridge the atmospheric science and hydrology communities. My current project is to investigate the impact of precipitation phase on streamflow in the context of climate change.
+I used in-situ observations to study the climatology and trends in precipitation phase partitioning and develop an improved, energy-based  phase partitioning method (PPM) applicable for satellite retrievals and hydrological modeling. I also employed satellite data to analyze the temperature sensitivity of precipitation phases, highlighting the variability in vulnerability to climate change. My collaborations include developing improved machine learning algorithms and validation methods for satellite snowfall retrieval. 
+
+In the long term, I hope to bridge the atmospheric science and hydrology communities. My current project is to investigate the impact of precipitation phase on streamflow in the context of climate change. I started by implementing novel PPMs in the land-surface models, and compare the bias in snow modeling induced by differnet PPMs. I will test the sensitivity of snow to S/P ratio, and then further explore changes in runoffs due to varying S/P ratio.
 
 <img src="/images/ssy.jpg" class="floatpic">
 
@@ -30,7 +32,7 @@ I used in-situ observations to study the climatology and trends in precipitation
 ## News and Updates
 
 - **Mar 2024：**I am happy to share the good news that I am offered Pim Fellowship in the Department of Earth and Planetary Sciences at Johns Hopkins University!
-- **Jan 2023**: My presentation “Classifying Precipitation Phase Based on Atmospheric Sounding” at the 2023 AMS Annual Meeting 37th Hydrology Conference was selected as the **1st place oral presentation\** among student entries in the hydrology section! Student winners can be found at [this](https://urldefense.com/v3/__https:/www.ametsoc.org/index.cfm/stac/committees/committee-on-hydrology/student-opportunities/__;!!PhOWcWs!w09vljm6HW11zQWoECVToR35uteetrCsOP3olPzp47c_hYKf_La1pfMt6sy15xYGdDlf2BCZGtnqNDg$) website.
+- **Jan 2023**: My presentation “Classifying Precipitation Phase Based on Atmospheric Sounding” at the 2023 AMS Annual Meeting 37th Hydrology Conference was selected as the **1st place oral presentation** among student entries in the hydrology section! Student winners can be found at [this](https://urldefense.com/v3/__https:/www.ametsoc.org/index.cfm/stac/committees/committee-on-hydrology/student-opportunities/__;!!PhOWcWs!w09vljm6HW11zQWoECVToR35uteetrCsOP3olPzp47c_hYKf_La1pfMt6sy15xYGdDlf2BCZGtnqNDg$) website.
 
 <br>
 
