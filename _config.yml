@@ -43,8 +43,8 @@ links:
     url: /research/
   - title: Publications
     url: /publications/
-  #- title: CV
-  #  url: /CV/
+  - title: CV
+    url: https://shangyongshi.github.io/file/ShangyongShi_cv.pdf
   - title: Presentations
     url: /presentations/
   # - title: Notes
