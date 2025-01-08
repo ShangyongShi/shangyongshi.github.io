@@ -22,8 +22,6 @@ In this study, we evaluated the global patterns of the climatology and trends in
 
 <img src="/research/sepetrend_map_confs.png" width="80%">
 
-
-
 ## Extreme Precipitation
 
 We explored the impact of extreme precipitation in peninsular Florida's hydroclimate variations.
