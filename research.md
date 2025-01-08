@@ -14,11 +14,13 @@ A recent study by Gottlieb and Mankin (2024) found that the decreasing rate of s
 
 We developed a **precipitation phase partitioning method (PPM) based on atmospheric energies using soundings**. The energy method greatly improves the phase classification performance for precipitation with a near-surface inversion layer. We applied this method in satellite precipitation retrievals, and we are in the process of inplementing the energy method into NoahMP land surface model.
 
-![phaseClass_Figure11](./research/phaseClass_Figure11.png)
+<img src="/research/phaseClass_Figure11.png" width="110%">
 
 ## Trends of Precipitation Partitioning
 
 In this study, we evaluated the global patterns of the climatology and trends in the precipitation partitioning by studying the snow event to precipitation event ratio (SE/PE ratio) based on weather stations and shipboard reports. We found **an interesting latitudinal pattern in the trends of the SE/PE ratio**, with large decreasing trends in the mid to low latitudes, and small decreasing or increasing trends in the higher latitudes. 
+
+<img src="/research/sepetrend_map_confs.png" width="80%">
 
 
 

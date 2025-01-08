@@ -44,7 +44,8 @@ links:
   - title: Publications
     url: /publications/
   - title: CV
-    url: https://shangyongshi.github.io/file/ShangyongShi_cv.pdf
+    url: /file/ShangyongShi_cv.pdf
+    external: true
   - title: Presentations
     url: /presentations/
   # - title: Notes
