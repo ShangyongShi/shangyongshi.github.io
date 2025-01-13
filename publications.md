@@ -22,5 +22,5 @@ Lastest Update: September 12nd, 2024
 
 ## Thesis
 
-- PhD's Dissertation: On the Sensitivity of Precipitation Phase to Temperature
+- PhD's Dissertation: [On the Sensitivity of Precipitation Phase to Temperature](https://repository.lib.fsu.edu/islandora/object/fsu:954624)
 - Master's Thesis: [Understanding the Phases of Precipitation: Climatology, Trends and Physics of the Phase Transition](https://www.proquest.com/openview/4dd001ac2d9046c03c538445b4750002/1?pq-origsite=gscholar&cbl=18750&diss=y)<br>
