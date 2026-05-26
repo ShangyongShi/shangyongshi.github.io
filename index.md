@@ -12,7 +12,7 @@ Weather and climate phenomena are energy-driven cycles within the Earth system. 
 
 Key words: **Hydroclimatology, Precipitation phase partitioning, Snow hydrology, Remote sensing of precipitation, Extreme precipitation, Machine learning, Climate change**. 
 
-<img src="/images/ssy1.jpg" class="floatpic">
+<img src="/images/ssy1.JPG" class="floatpic">
 
 <br>
 
@@ -20,8 +20,9 @@ Key words: **Hydroclimatology, Precipitation phase partitioning, Snow hydrology,
 
 ## Professional Experiences
 
-| 2026.5 - 2026.8 | *Visiting  Scholar*   | **NSF NCAR Research  Applications Lab **\| Host: Cenlin He   |
+| Year            | Role                  | Affiliations                                                 |
 | --------------- | --------------------- | ------------------------------------------------------------ |
+| 2026.5 - 2026.8 | *Visiting  Scholar*   | **NSF NCAR Research  Applications Lab **\| Host: Cenlin He   |
 | 2024.9 - now    | *Pim  Postdoc Fellow* | **Johns Hopkins University** \|  PI: Benjamin Zaitchik       |
 | 2023.6 - 2024.5 | *Research  Intern*    | **University of Maryland**,  Cooperative Institute for Satellite Earth System Studies \| PI: Huan Meng, Yongzhen Fan <br /> Improving the machine learning algorithm for orographic snowfall retrieval from satellite passive microwave sensors. |
 | 2022.9 - 2023.5 | *Teaching Assistant*  | **Florida State University**                                 |
@@ -38,7 +39,7 @@ Key words: **Hydroclimatology, Precipitation phase partitioning, Snow hydrology,
 
 ## News and Updates
 
-- **May 15, 2026**: First time attending the Snow Conference.
+- **May 15, 2026**: First time attending the Snow Conference; Started my summer NCAR visit!
 - **May 2026**: I am thrilled to win the Early Career Best Paper Award 2025 in JHU EPS! This is a great encouragement for me.
 - **Mar 2024：**I am happy to share the good news that I have been offered the ***Glendora and Howard L. Pim Postdoctoral Fellowship in Global Change*** in the Department of Earth and Planetary Sciences at Johns Hopkins University!
 - **Jan 2023**: My presentation “Classifying Precipitation Phase Based on Atmospheric Sounding” at the 2023 AMS Annual Meeting 37th Hydrology Conference was selected as the **1st place oral presentation** among student entries in the hydrology section! Student winners can be found at [this](https://urldefense.com/v3/__https:/www.ametsoc.org/index.cfm/stac/committees/committee-on-hydrology/student-opportunities/__;!!PhOWcWs!w09vljm6HW11zQWoECVToR35uteetrCsOP3olPzp47c_hYKf_La1pfMt6sy15xYGdDlf2BCZGtnqNDg$) website.
