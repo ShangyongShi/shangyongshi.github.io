@@ -22,7 +22,7 @@ Key words: **Hydroclimatology, Precipitation phase partitioning, Snow hydrology,
 
 | Year            | Role                  | Affiliations                                                 |
 | --------------- | --------------------- | ------------------------------------------------------------ |
-| 2026.5 - 2026.8 | *Visiting  Scholar*   | **NSF NCAR Research  Applications Lab **\| Host: Cenlin He   |
+| 2026.5 - 2026.8 | *Visiting  Scholar*   | **NSF NCAR Research  Applications Lab**\| Host: Cenlin He    |
 | 2024.9 - now    | *Pim  Postdoc Fellow* | **Johns Hopkins University** \|  PI: Benjamin Zaitchik       |
 | 2023.6 - 2024.5 | *Research  Intern*    | **University of Maryland**,  Cooperative Institute for Satellite Earth System Studies \| PI: Huan Meng, Yongzhen Fan <br /> Improving the machine learning algorithm for orographic snowfall retrieval from satellite passive microwave sensors. |
 | 2022.9 - 2023.5 | *Teaching Assistant*  | **Florida State University**                                 |

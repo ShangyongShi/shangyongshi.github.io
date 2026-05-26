@@ -6,7 +6,7 @@ title: Research
 
 Lastest Update: May 26, 2026
 
-### Precipitation Phase - Bridging Atmospheric Science and Hydrology
+## Precipitation Phase - Bridging Atmospheric Science and Hydrology
 
 Precipitation phase – precipitation falling as rain or snow, is crucial to water resource and hazard predictions. It is one of my major focuses to study changes in the hydrological cycle. I used surface observations, remote sensing, and land surface modeling to study how precipitation phase partitioning has changed, how to improve phase predictions, and how it will affect surface hydrology. 
 
@@ -36,7 +36,7 @@ Precipitation phase – precipitation falling as rain or snow, is crucial to wat
 
 
 
-### Hydroclimate Variability and Extremes Across Scales
+## Hydroclimate Variability and Extremes Across Scales
 
 #### Energetic View on Precipitation Changes
 
