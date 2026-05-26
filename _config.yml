@@ -11,7 +11,7 @@ owner:
   avatar: shangyong.jpg
   bio: The mountain is calling, and I must go.
   email: sshi28@jhu.edu
-  cv: https://shangyongshi.github.io/file/ShangyongShi_cv.pdf
+  cv: https://shangyongshi.github.io/file/ShangyongShi_CV.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: 
   github: ShangyongShi
@@ -44,10 +44,10 @@ links:
   - title: Publications
     url: /publications/
   - title: CV
-    url: /file/ShangyongShi_cv.pdf
+    url: /file/ShangyongShi_CV.pdf
     external: true
-  - title: Presentations
-    url: /presentations/
+  # - title: Presentations
+  #  url: /presentations/
   # - title: Notes
     # url: /notes/
   #- title: Blogs

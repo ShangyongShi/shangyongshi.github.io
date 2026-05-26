@@ -4,21 +4,28 @@ layout: page
 
 # About Me
 
-<img src="/images/ssy1.JPG" class="floatpic">
+<img src="/images/AMS26_Profile.JPG" class="floatpic">
 
-I am **Shangyong Shi (施尚永)**. I am the Pim Fellow in the Department of Earth and Planetary Sciences for year 2024 at Johns Hopkins University, working with Dr. Benjamin Zaitchik (zaitchik@jhu.edu).
+I am **Shangyong Shi (施尚永)**. I am the Pim Postdoc Fellow in the Department of Earth and Planetary Sciences for the year 2024 at Johns Hopkins University, working with Dr. Benjamin Zaitchik.
 
-I am interested in **precipitation phase, satellite remote sensing, hydrometeorology, surface hydrology, and climate change.**
+Weather and climate phenomena are energy-driven cycles within the Earth system. From this perspective, my research integrates observations, modeling, remote sensing, and AI to examine how energy and radiation shape precipitation phases, hydroclimatic variations, and extremes, and improve Earth system modeling. I aim to improve the predictability of Earth’s water cycle across weather and climate scales.
 
-I used in-situ observations to study the climatology and trends in precipitation phase partitioning and develop an improved, energy-based  phase partitioning method (PPM) applicable for satellite retrievals and hydrological modeling. I also employed satellite data to analyze the temperature sensitivity of precipitation phases, highlighting the variability in vulnerability to climate change. My collaborations include developing improved machine learning algorithms and validation methods for satellite snowfall retrieval. 
+Key words: **Hydroclimatology, Precipitation phase partitioning, Snow hydrology, Remote sensing of precipitation, Extreme precipitation, Machine learning, Climate change**. 
 
-In the long term, I hope to bridge the atmospheric science and hydrology communities. My current project is to investigate the impact of precipitation phase on streamflow in the context of climate change. I started by implementing novel PPMs in the land-surface models, and compare the bias in snow modeling induced by differnet PPMs. I will test the sensitivity of snow to S/P ratio, and then further explore changes in runoffs due to varying S/P ratio.
-
-<img src="/images/ssy.jpg" class="floatpic">
+<img src="/images/ssy1.jpg" class="floatpic">
 
 <br>
 
 ---
+
+## Professional Experiences
+
+| 2026.5 - 2026.8 | *Visiting  Scholar*   | **NSF NCAR Research  Applications Lab **\| Host: Cenlin He   |
+| --------------- | --------------------- | ------------------------------------------------------------ |
+| 2024.9 - now    | *Pim  Postdoc Fellow* | **Johns Hopkins University** \|  PI: Benjamin Zaitchik       |
+| 2023.6 - 2024.5 | *Research  Intern*    | **University of Maryland**,  Cooperative Institute for Satellite Earth System Studies \| PI: Huan Meng, Yongzhen Fan <br /> Improving the machine learning algorithm for orographic snowfall retrieval from satellite passive microwave sensors. |
+| 2022.9 - 2023.5 | *Teaching Assistant*  | **Florida State University**                                 |
+| 2016.9 - 2017.1 | *Exchange Student*    | **National Taiwan University**                               |
 
 ## Academic Background
 
@@ -31,7 +38,9 @@ In the long term, I hope to bridge the atmospheric science and hydrology communi
 
 ## News and Updates
 
-- **Mar 2024：**I am happy to share the good news that I am offered Pim Fellowship in the Department of Earth and Planetary Sciences at Johns Hopkins University!
+- **May 15, 2026**: First time attending the Snow Conference.
+- **May 2026**: I am thrilled to win the Early Career Best Paper Award 2025 in JHU EPS! This is a great encouragement for me.
+- **Mar 2024：**I am happy to share the good news that I have been offered the ***Glendora and Howard L. Pim Postdoctoral Fellowship in Global Change*** in the Department of Earth and Planetary Sciences at Johns Hopkins University!
 - **Jan 2023**: My presentation “Classifying Precipitation Phase Based on Atmospheric Sounding” at the 2023 AMS Annual Meeting 37th Hydrology Conference was selected as the **1st place oral presentation** among student entries in the hydrology section! Student winners can be found at [this](https://urldefense.com/v3/__https:/www.ametsoc.org/index.cfm/stac/committees/committee-on-hydrology/student-opportunities/__;!!PhOWcWs!w09vljm6HW11zQWoECVToR35uteetrCsOP3olPzp47c_hYKf_La1pfMt6sy15xYGdDlf2BCZGtnqNDg$) website.
 
 <br>
