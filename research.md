@@ -14,13 +14,13 @@ Precipitation phase – precipitation falling as rain or snow, is crucial to wat
 
   (Shi and Liu, 2021) In this study, we evaluated the global patterns of the climatology and trends in the precipitation partitioning by studying the snow event to precipitation event ratio (SE/PE ratio) based on weather stations and shipboard reports. We found **an interesting latitudinal pattern in the trends of the SE/PE ratio**, with large decreasing trends in the mid to low latitudes, and small decreasing or increasing trends in the higher latitudes. 
 
-  <img src="/research/sepetrend_map_confs.png" width="80%">
+  <img src="/research/sepetrend_map_confs.png" width="50%">
 
 - #### Advanced Precipitation Phase Partitioning Method: EnergyPhase
 
   (Shi and Liu, 2024) We developed a **precipitation phase partitioning method (PPM) based on atmospheric melting and refreezing energies using soundings**. The EnergyPhase method greatly improves the phase classification performance for precipitation with a near-surface inversion layer. We applied this method in satellite precipitation retrievals, and we are in the process of implementing the energy method into the NoahMP land surface model.
 
-  <img src="/research/EnergyPhase.png" width="100%">
+  <img src="/research/EnergyPhase.png" width="50%">
 
 - #### Precipitation Phase Temperature Sensitivity
 
